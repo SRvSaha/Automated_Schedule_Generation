@@ -1,0 +1,149 @@
+{
+    "CSL1401": [
+        "COMPUTER ORGANISATION AND ARCHITECTURE",
+        3,
+        "ADMIN",
+        "C",
+        false
+    ],
+    "CSL1402": [
+        "DESIGN AND ANALYSIS OF ALGORITHMS",
+        3,
+        "ADMIN",
+        "C",
+        false
+    ],
+    "CSL1403": [
+        "THEORY OF COMPUTATION",
+        3,
+        "ADMIN",
+        "C",
+        false
+    ],
+    "CSL1404": [
+        "SYSTEM PROGRAMMING",
+        3,
+        "ADMIN",
+        "C",
+        false
+    ],
+    "CSL1405": [
+        "DATA COMMUNICATION",
+        3,
+        "ADMIN",
+        "C",
+        false
+    ],
+    "CSL1406": [
+        "LINEAR ALGEBRA AND APPLICATION",
+        3,
+        "ADMIN",
+        "C",
+        false
+    ],
+    "CSP1401": [
+        "COMPUTER ORGANISATION AND ARCHITECTURE LABORATORY",
+        1,
+        "ADMIN",
+        "C",
+        false
+    ],
+    "CSP1404": [
+        "SYSTEM PROGRAMMING LABORATORY",
+        1,
+        "ADMIN",
+        "C",
+        false
+    ],
+    "CSP1405": [
+        "DATA COMMUNICATION LABORATORY",
+        1,
+        "ADMIN",
+        "C",
+        false
+    ],
+    "CSL1601": [
+        "PRINCIPLES OF COMPILER DESIGN",
+        3,
+        "ADMIN",
+        "B",
+        false
+    ],
+    "CSL1602": [
+        "SOFTWARE ENGINEERING",
+        3,
+        "ADMIN",
+        "B",
+        false
+    ],
+    "CSL1603": [
+        "COMPUTER GRAPHICS",
+        3,
+        "ADMIN",
+        "B",
+        false
+    ],
+    "CSL1604": [
+        "ARTIFICIAL INTELLIGENCE",
+        3,
+        "ADMIN",
+        "B",
+        false
+    ],
+    "HUL1601": [
+        "MACRO ECONOMICS AND BUSINESS ENVIRONMENT",
+        3,
+        "BLOCK-1",
+        "B",
+        false
+    ],
+    "CSP1601": [
+        "COMPILER DESIGN LABORATORY",
+        1,
+        "ADMIN",
+        "B",
+        false
+    ],
+    "CSP1602": [
+        "SOFTWARE ENGINEERING LABORATORY",
+        1,
+        "ADMIN",
+        "B",
+        false
+    ],
+    "CSP1603": [
+        "COMPUTER GRAPHICS LABORATORY",
+        1,
+        "ADMIN",
+        "B",
+        false
+    ],
+    "CSL1801": [
+        "NATURAL LANGUAGE PROCESSING",
+        3,
+        "ADMIN",
+        "A",
+        false
+    ],
+    "CHL1802": [
+        "ENVIRONMENTAL SCIENCE",
+        3,
+        "BLOCK-2",
+        "A",
+        false
+    ],
+    "CSL1803": [
+        "COMPUTATIONAL NUMBER THEORY AND CRYPTOGRAPHY",
+        3,
+        "ADMIN",
+        "A",
+        false
+    ],
+    "CSD1802": [
+        "PROJECT PHASE",
+        6,
+        "ADMIN",
+        "A",
+        false
+    ]
+}
