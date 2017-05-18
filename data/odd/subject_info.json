@@ -1,0 +1,191 @@
+{
+    "CSP1101": [
+        "C PROGRAMMING LABORATORY",
+        1,
+        "ADMIN",
+        "D",
+        false
+    ],
+    "CSL1301": [
+        "DATA STRUCTURE",
+        3,
+        "BLOCK-2",
+        "C",
+        false
+    ],
+    "CSL1302": [
+        "DISCRETE MATHEMATICS",
+        3,
+        "ADMIN",
+        "C",
+        false
+    ],
+    "CSL1303": [
+        "OBJECT ORIENTED PROGRAMMING",
+        3,
+        "ADMIN",
+        "C",
+        false
+    ],
+    "MAL1305": [
+        "NUMERICAL METHOD AND PROBABILITY THEORY",
+        4,
+        "ADMIN",
+        "C",
+        false
+    ],
+    "ECL1302": [
+        "DIGITAL CIRCUIT AND LOGIC DESIGN",
+        3,
+        "BLOCK-2",
+        "C",
+        false
+    ],
+    "HUL1301": [
+        "MANAGERIAL ECONOMICS",
+        3,
+        "BLOCK-2",
+        "C",
+        false
+    ],
+    "CSP1301": [
+        "DATA STRUCTURE LABORATORY",
+        1,
+        "ADMIN",
+        "C",
+        false
+    ],
+    "CSP1303": [
+        "OBJECT ORIENTED PROGRAMMING LABORATORY",
+        1,
+        "ADMIN",
+        "C",
+        false
+    ],
+    "ECP1303": [
+        "DIGITAL CIRCUIT AND LOGIC DESIGN",
+        1,
+        "BLOCK-3",
+        "C",
+        false
+    ],
+    "CSL1501": [
+        "COMPUTER NETWORKS",
+        3,
+        "ADMIN",
+        "B",
+        false
+    ],
+    "CSL1502": [
+        "OPERATING SYSTEMS",
+        3,
+        "ADMIN",
+        "B",
+        false
+    ],
+    "CSL1503": [
+        "MICROPROCESSOR BASED SYSTEMS",
+        3,
+        "ADMIN",
+        "B",
+        false
+    ],
+    "CSL1504": [
+        "DATABASE MANAGEMENT SYSTEM",
+        3,
+        "ADMIN",
+        "B",
+        false
+    ],
+    "CSL1505": [
+        "PRINCIPLES OF PROGRAMMING LANGUAGES",
+        3,
+        "ADMIN",
+        "B",
+        false
+    ],
+    "CSP1501": [
+        "COMPUTER NETWORKS LABORATORY",
+        1,
+        "ADMIN",
+        "B",
+        false
+    ],
+    "CSP1502": [
+        "OPERATING SYSTEM LABORATORY",
+        1,
+        "ADMIN",
+        "B",
+        false
+    ],
+    "CSP1503": [
+        "MICROPROCESSOR BASED SYSTEM LABORATORY",
+        1,
+        "ADMIN",
+        "B",
+        false
+    ],
+    "CSP1504": [
+        "DATABASE MANAGEMENT SYSTEM LABORATORY",
+        1,
+        "ADMIN",
+        "B",
+        false
+    ],
+    "CSL1701": [
+        "ADVANCE DATA STRUCTURE",
+        3,
+        "ADMIN",
+        "A",
+        false
+    ],
+    "ECL1701": [
+        "INTRODUCTION TO VLSI",
+        3,
+        "BLOCK-2",
+        "A",
+        false
+    ],
+    "CSL1702": [
+        "DATA MINING AND DATA WAREHOUSING",
+        3,
+        "ADMIN",
+        "A",
+        false
+    ],
+    "ECL1703": [
+        "EMBEDDED SYSTEM",
+        3,
+        "BLOCK-2",
+        "A",
+        false
+    ],
+    "ECP1701": [
+        "INTRODUCTION TO VLSI LABORATORY",
+        1,
+        "BLOCK-2",
+        "A",
+        false
+    ],
+    "CSD1702": [
+        "PROJECT PHASE-1",
+        4,
+        "ADMIN",
+        "A",
+        false
+    ],
+    "CSP1704": [
+        "DATA MINING AND DATA WAREHOUSING LABORATORY",
+        1,
+        "ADMIN",
+        "A",
+        false
+    ],
+    "ECP1703": [
+        "EMBEDDED SYSTEM LABORATORY",
+        1,
+        "BLOCK-2",
+        "A",
+        false
+    ]
+}
